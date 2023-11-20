@@ -1,5 +1,3 @@
 # Hello-World
 
-: [<img src="Open me.jpg">]
-
-GLHF!
+<img src="Open me.jpg">
